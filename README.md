@@ -1,6 +1,9 @@
 # 3D-Werk-Area
 Opensource 3D Werk project made by students of @zszatopkovych under @renderwavesteam direction
 
+## License
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA)
+
 ## Authors
 - Vojtech Tom Heczko
 - Frantisek Krenzelok
